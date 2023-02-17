@@ -5,6 +5,8 @@
 
 사용법
 
+<Python 설치 안 되어있는 분들은 Python 설치 먼저 해주세요!>
+
 1. 프로젝트 내려받기
 
 2. Visual Studio Code 에서 폴더 열기 > 프로젝트 폴더 클릭해서 열기
@@ -19,4 +21,6 @@
 
 7. 터미널에 pip install flask 명령 입력
 
-8. 터미널에 flask run 명령 입력
+8. 터미널에 pip install bs4 명령 입력 
+
+9. 터미널에 flask run 명령 입력
